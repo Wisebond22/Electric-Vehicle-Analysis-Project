@@ -77,6 +77,6 @@ Cross-referenced dashboard outputs with original Excel calculations to ensure ac
 Presented the findings in an easy-to-understand manner, focusing on actionable business insights and key takeaways.
 
 ## Dashboard
-https://github.com/Wisebond22/Electric-Vehicle-Analysis-Project/blob/main/EV%20Analysis.png
 
+<img width="671" alt="E V Analysis Screenshot" src="https://github.com/user-attachments/assets/19203779-0938-40e5-a228-1df0d94017e3" />
 
