@@ -73,4 +73,9 @@ Derived actionable insights, such as the significant percentage of vehicles elig
 Validation of Results:
 
 Cross-referenced dashboard outputs with original Excel calculations to ensure accuracy.
+
 Presented the findings in an easy-to-understand manner, focusing on actionable business insights and key takeaways.
+
+## Dashboard
+
+
